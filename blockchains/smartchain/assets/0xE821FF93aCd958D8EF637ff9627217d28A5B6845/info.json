@@ -1,0 +1,11 @@
+{
+"name": "Potluck Protocol",
+"type": "BEP20",
+"symbol": "PTLKX",
+"decimals": 18,
+"description": "Native token of defi site Potluck Protocol",
+"website": "https://potluckprotocol.com",
+"explorer": "https://bscscan.com/token/0xe821ff93acd958d8ef637ff9627217d28a5b6845",
+"status": "active",
+"id": "0xe821ff93acd958d8ef637ff9627217d28a5b6845"
+}
